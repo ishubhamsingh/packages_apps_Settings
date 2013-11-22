@@ -164,5 +164,17 @@
     <!-- Whether to display IME switcher notifcation -->
      <string name="ime_switcher_notify">Selector notification</string>
      <string name="ime_switcher_notify_summary">Display input method selector notification</string>
+     
+     <!-- Reset Profiles -->
+    <string name="profile_reset_title">Reset</string>
+    <string name="profile_reset_message">Delete all user created profiles and app groups and restore them to default?</string>
+    
+     <!--Navbar -->
+     <string name="navigation_bar_title">Buttons and layout</string>
+     <string name="navigation_bar_help_text">To get started tap the edit icon to unlock the navigation bar for editing.\n\nYou can tap an icon to change its shortcut, or long press an icon to re-arrange the layout.\n\nTap save to commit your changes, or restore to reset the layout to default settings.</string>
+     <string name="navigation_restore_button_text">Restore\ndefaults</string>
+     <string name="navigation_edit_button_text">Edit</string>
+     <string name="navigation_save_button_text">Save</string>
+     <string name="navigation_bar_reset_message">Delete current settings and restore the default layout?</string>
 
 </resources>
