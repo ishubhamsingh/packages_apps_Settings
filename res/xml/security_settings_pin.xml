@@ -35,6 +35,11 @@
             android:summary="@string/unlock_quick_unlock_control_summary"
             android:defaultValue="true" />
 
+        <PreferenceScreen
+            android:key="lockscreen_shortcuts_settings"
+            android:fragment="com.android.settings.cyanogenmod.LockscreenShortcuts"
+            android:title="@string/lockscreen_targets_message" />
+
         <com.android.settings.slim.SystemSettingSwitchPreference
             android:key="lockscreen_scramble_pin_layout"
             android:title="@string/unlock_scramble_pin_layout_title"
