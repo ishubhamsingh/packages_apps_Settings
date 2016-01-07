@@ -179,6 +179,10 @@
 
      <string name="navigation_bar_arrow_keys_title">Show arrow keys while typing</string>   
      <string name="navigation_bar_arrow_keys_summary">Display left and right cursor buttons while typing. Overrides IME switcher.</string>
+
+     <!-- Double Tap Navbar to Sleep -->
+     <string name="double_tap_sleep_nav_bar_title">Double-tap to sleep</string>
+     <string name="double_tap_sleep_nav_bar_summary">Double tap navigation bar to put the device to sleep</string>
      
     <!-- Setting checkbox summary for displaying USB debugging notification -->
     <string name="adb_notify">USB debugging notify</string>
